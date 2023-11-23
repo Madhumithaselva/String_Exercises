@@ -45,7 +45,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex5ReplaceString">
+  <component name="RunManager" selected="Application.Ex6TrimString">
     <configuration name="Ex2IndexOfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex2IndexOfExample" />
       <module name="StringExercises" />
@@ -98,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.lexicon.StringLength" />
+    <configuration name="Ex6TrimString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex6TrimString" />
       <module name="StringExercises" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex6TrimString" />
         <item itemvalue="Application.Ex5ReplaceString" />
         <item itemvalue="Application.Ex4LowerCaseAndUpperCase" />
         <item itemvalue="Application.Ex3Substring" />
         <item itemvalue="Application.Ex2IndexOfExample" />
-        <item itemvalue="Application.StringLength" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700731011914</updated>
-      <workItem from="1700731013043" duration="2879000" />
+      <workItem from="1700731013043" duration="3369000" />
     </task>
     <servers />
   </component>
