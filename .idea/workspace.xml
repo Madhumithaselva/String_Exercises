@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea8f56be-0164-4c3b-9860-4f46e8ab1ff3" name="Changes" comment="" />
+    <list default="true" id="ea8f56be-0164-4c3b-9860-4f46e8ab1ff3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +47,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex9CharArray">
-    <configuration name="Ex6TrimString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex6TrimString" />
+  <component name="RunManager" selected="Application.Ex11CharArrayToString">
+    <configuration name="Ex11CharArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex11CharArrayToString" />
       <module name="StringExercises" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11CharArrayToString" />
         <item itemvalue="Application.Ex9CharArray" />
         <item itemvalue="Application.Ex9SplitTheString" />
         <item itemvalue="Application.Ex8StringArray" />
         <item itemvalue="Application.Ex7AppendingString" />
-        <item itemvalue="Application.Ex6TrimString" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700731011914</updated>
-      <workItem from="1700731013043" duration="7134000" />
+      <workItem from="1700731013043" duration="7455000" />
     </task>
     <servers />
   </component>
@@ -145,13 +147,13 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/se/lexicon/Ex9CharArray.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/se/lexicon/Ex11CharArrayToString.java</url>
           <line>3</line>
-          <properties class="se.lexicon.Ex9CharArray" method="main">
+          <properties class="se.lexicon.Ex11CharArrayToString" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
