@@ -45,20 +45,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex9SplitTheString">
-    <configuration name="Ex5ReplaceString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex5ReplaceString" />
-      <module name="StringExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="se.lexicon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex9CharArray">
     <configuration name="Ex6TrimString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex6TrimString" />
       <module name="StringExercises" />
@@ -98,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex9CharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex9CharArray" />
+      <module name="StringExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex9SplitTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex9SplitTheString" />
       <module name="StringExercises" />
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex9CharArray" />
         <item itemvalue="Application.Ex9SplitTheString" />
         <item itemvalue="Application.Ex8StringArray" />
         <item itemvalue="Application.Ex7AppendingString" />
         <item itemvalue="Application.Ex6TrimString" />
-        <item itemvalue="Application.Ex5ReplaceString" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700731011914</updated>
-      <workItem from="1700731013043" duration="6676000" />
+      <workItem from="1700731013043" duration="7134000" />
     </task>
     <servers />
   </component>
@@ -143,6 +143,15 @@
           <url>file://$PROJECT_DIR$/src/main/java/se/lexicon/StringLength.java</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/se/lexicon/Ex9CharArray.java</url>
+          <line>3</line>
+          <properties class="se.lexicon.Ex9CharArray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
