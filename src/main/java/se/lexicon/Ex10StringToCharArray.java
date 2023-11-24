@@ -1,6 +1,6 @@
 package se.lexicon;
 
-public class Ex9CharArray{
+public class Ex10StringToCharArray {
     public static void main(String[] args){
         String string="ThisShouldBeConverted";
         char[] charArray=string.toCharArray();

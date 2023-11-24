@@ -7,7 +7,7 @@ public class Ex3Substring {
         //finding the position of Index
         int position=string.indexOf('n');
         //Getting the substring using index
-        String substring=string.substring(position,string.length()-1);
-        System.out.println(substring);
+        String substr=string.substring(position,string.length()-1);
+        System.out.println(substr);
     }
 }
